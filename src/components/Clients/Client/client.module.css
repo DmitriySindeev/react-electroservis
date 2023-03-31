@@ -1,0 +1,9 @@
+.client__item img {
+    width: 200px;
+}
+ .client__item {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    font-size: 20px;
+ }

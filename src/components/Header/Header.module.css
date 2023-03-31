@@ -1,0 +1,15 @@
+.header {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    border-radius: 20px;
+}
+
+.img__container {
+    width: 200px;
+}
+
+.header img {
+    width: 200px;
+    border-radius: 50%;
+}
