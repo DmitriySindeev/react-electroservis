@@ -1,7 +1,5 @@
 .about__wrapper {
- background-image: url(https://tech-expo.ru/upload/resize_cache/iblock/0fb/1200_841_1ef1060513a42e26f210374d314303414/ktp_techexpo_011.jpg);
- background-repeat: no-repeat;
- background-size: cover;
+ font-size: 20px;
 }
 
 .about__wrapper h1 {

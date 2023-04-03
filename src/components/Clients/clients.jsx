@@ -21,7 +21,7 @@ const Clients = (props) => {
 
     return (
         <div className={style.clients__wrapper}>
-            <h1>С кем мы работаем</h1>
+            <h1>Отзывы наших клиентов:</h1>
             <div className={style.client__item__wrapper}>
                 {clientElement}
             </div>

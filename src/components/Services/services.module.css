@@ -1,0 +1,17 @@
+.services__item__wrapper {
+    display: grid;
+    grid-template-columns: 8fr 2fr;
+}
+
+.services__item__wrapper img {
+    width: 250px;
+}
+
+.services__wrapper h2 {
+    text-align: center;
+}
+
+.services__item__container {
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+}
